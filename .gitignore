@@ -1,3 +1,4 @@
 cursor.md
 .env
 venv/
+__pycache__/
